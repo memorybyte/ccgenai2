@@ -1,0 +1,6 @@
+python-dotenv
+
+tiktoken
+
+openai
+google-genai
