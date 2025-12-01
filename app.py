@@ -49,8 +49,8 @@ print(response.output_text)
 # Multi-head Attention
 
 
-# 02
-
+# 02: Prompting Techniques
+# Style: Alpaca Prompt, ChatML, INST Format
 
 # 03
 
